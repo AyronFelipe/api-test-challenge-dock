@@ -1,0 +1,32 @@
+[
+{
+  "model": "core.pessoa",
+  "pk": 1,
+  "fields": {
+    "dataCriacao": "2021-02-12T15:59:00.420Z",
+    "nome": "Sarah Sophia Elisa Jesus",
+    "cpf": "40508014425",
+    "dataNascimento": "2021-02-12"
+  }
+},
+{
+  "model": "core.pessoa",
+  "pk": 2,
+  "fields": {
+    "dataCriacao": "2021-02-12T15:59:12.783Z",
+    "nome": "Alícia Bárbara Priscila Viana",
+    "cpf": "73984391307",
+    "dataNascimento": "2021-02-12"
+  }
+},
+{
+  "model": "core.pessoa",
+  "pk": 3,
+  "fields": {
+    "dataCriacao": "2021-02-12T15:59:28.278Z",
+    "nome": "Milena Tânia Elisa Ramos",
+    "cpf": "98588185725",
+    "dataNascimento": "2021-02-12"
+  }
+}
+]
