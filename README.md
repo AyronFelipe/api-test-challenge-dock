@@ -11,7 +11,7 @@
 	 - Run: `docker-compose exec web pytest`;
 - Project Architecture
 	- 
-	- ![Diagram Class](https://ibb.co/m6swDmN)
+	- [Diagram Class](https://ibb.co/m6swDmN)
 - Documentation
 	- 
 	- The documentation can be found in: [http://localhost:8000/documentation/](http://localhost:8000/documentation/)
